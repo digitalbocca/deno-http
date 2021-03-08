@@ -1,4 +1,4 @@
-# deno-cli
+# deno-http
 
 Exemplo de servidor http rodando no Deno.
 
